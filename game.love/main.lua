@@ -1,7 +1,7 @@
 local utf8 = require("utf8")
  
 love.window.setMode( 500,500)
-love.window.setTitle("Terminal Test")
+love.window.setTitle("Game off - Gamejam")
 
 function love.load()
     text = ""
