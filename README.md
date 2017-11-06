@@ -7,3 +7,7 @@ https://itch.io/jam/game-off-2017
 I don't even have a title yet. Testing out a new idea anyway, made with Love2D.
 
 Right now, I'm figuring out how to connect to this repo with Git Bash, it's been a while since I did anything with Github.
+
+#06/11/17
+
+I got Git working and everything. A very early prototype sort of game is working now.
